@@ -1,6 +1,7 @@
 # Week 2  & MidEval - Vibe Checker
 
 **The Basics**
+
 I hope you guys had a good experience with the week 1 resources. They may have been a bit challenging but they were meant to give you a mathematical background into Machine Learning - something which a lot of people lack & something without which progressing forward can be quite challenging. For those of you who felt like it was too theoretical, you guys are going to enjoy this weeks assignment as we will focus purely on implementing things from now. Considering that this is probably the first time you guys are using any ML related framework, I would highly encourage you guys to follow the flow of this document otherwise you would end up getting confused and lost. Trust me, staying structured will save you a lot of time later on.
 
 As I mentioned in the last meet, try to form groups to solve the assignments and since this assignment is a bit long, **you are expected to work in groups formed in the last meet.** Also, your accuracy/results do not matter to me till the time I can see the effort, blatant GPT is always discouraged as opposed to spending time to learn the content.
